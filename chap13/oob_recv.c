@@ -56,6 +56,8 @@ int main(int argc, char *argv[]) {
 
     close(recv_sock);
     close(acpt_sock);
+
+    return 0;
 }
 
 void urg_handler(int signo) {
