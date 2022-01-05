@@ -2,3 +2,5 @@
 tags
 bin/*
 ./cmake-build-debug/*
+*.o
+main
