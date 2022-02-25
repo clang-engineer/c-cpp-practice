@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../chap07/ListBaseQueue.h"
+#include "ListBaseQueue.h"
 
 #define BUCKET_NUM 10
 
